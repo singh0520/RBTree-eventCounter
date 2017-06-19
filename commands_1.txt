@@ -1,0 +1,6 @@
+increase 2000 100
+reduce 2000 106
+inrange 1000 5000
+next 3070
+previous 2001
+quit
